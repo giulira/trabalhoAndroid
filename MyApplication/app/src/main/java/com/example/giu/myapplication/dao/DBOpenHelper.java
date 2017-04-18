@@ -7,7 +7,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 import com.example.giu.myapplication.R;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
